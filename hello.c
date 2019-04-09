@@ -6,6 +6,6 @@ void add(int a,int b)
 }
 int main()
 {
-	printf("hello world, adding two numbers");
+	printf("hello , I'm Shivani world, adding two numbers");
 	add(10,20);
 }
